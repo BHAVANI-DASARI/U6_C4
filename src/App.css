@@ -1,0 +1,11 @@
+.App{
+  margin: auto;
+  width:80%;
+  /* border: 1px solid red; */
+  text-align: center;
+  
+}
+span{
+  font-size: 18px;
+  font-weight: 500;
+}
